@@ -1,5 +1,9 @@
 #!/bin/bash
 
+sudo yum install epel-release
+
+sudo yum repolist
+
 sudo yum install -y ansible
 
 ssh-keygen -t rsa
