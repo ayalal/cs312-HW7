@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/ayalal/cs312-HW7/master/hosts.ini
+https://raw.githubusercontent.com/ayalal/cs312-HW7/master/webserver.sh
+https://raw.githubusercontent.com/ayalal/cs312-HW7/master/webserver.yaml
+https://raw.githubusercontent.com/ayalal/cs312-HW7/master/ansible-index.html
